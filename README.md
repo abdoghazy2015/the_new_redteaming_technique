@@ -32,7 +32,7 @@ After doing all of the above steps, you need to do the following steps:
 2- try to know when the employee will leave the work and which road he will take 
 3- use this technique to get his creds 
 
-![alt text](https://drive.google.com/file/d/1YIzadLmWJEzbzXtQHpOo8_82IsbY9kxd/view?usp=sharing)
+![alt text](https://i.ibb.co/vQVQXkQ/279407320-359224712933498-202643383967457168-n.jpg)
 
 
 
