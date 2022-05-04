@@ -52,12 +52,14 @@ After doing all of the above steps, you need to do the following steps:
 1- try to figure the needed employee from Linkedin profile of the company 
 
 
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-download.com%2F1823-linkedin-logo-download.html&psig=AOvVaw0tv4BK3THakvGafc_4AQVh&ust=1651756983385000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjai7X4xfcCFQAAAAAdAAAAABAD)
 
 
 
 2- try to know when the employee will leave the work and which road he will take 
 
+
+![alt text](https://logos-download.com/wp-content/uploads/2016/05/Google_Maps_logo_icon.png)
 
 
 3- use this technique to get his creds 
