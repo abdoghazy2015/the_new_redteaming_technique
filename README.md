@@ -24,3 +24,17 @@ procdump.exe -accepteula -r -ma lsass.exe lsass.dmp
 ![alt text](https://2603957456-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LFEMnER3fywgFHoroYn%2F-L_nQv2zz6p9_9DMKQfx%2F-L_nX2I6LfCsWLSkjzwg%2FScreenshot%20from%202019-03-12%2020-11-28.png?alt=media&token=43e85fd4-36bf-43ba-9fd9-62d43712e1e8)
 
 ![alt text](https://2603957456-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-LFEMnER3fywgFHoroYn%2F-L_nQv2zz6p9_9DMKQfx%2F-L_nXVaJRSNnJZayxbL_%2FScreenshot%20from%202019-03-12%2020-13-25.png?alt=media&token=4e87b3ef-c690-4b43-b3f6-0ba244495398)
+
+
+After doing all of the above steps, you need to do the following steps: 
+
+1- try to figure the needed employee from Linkedin profile of the company 
+2- try to know when the employee will leave the work and which road he will take 
+3- use this technique to get his creds 
+
+![alt text](https://drive.google.com/file/d/1YIzadLmWJEzbzXtQHpOo8_82IsbY9kxd/view?usp=sharing)
+
+
+
+
+PS : all screen shots are from https://www.ired.team/offensive-security/credential-access-and-credential-dumping/dump-credentials-from-lsass-process-without-mimikatz
